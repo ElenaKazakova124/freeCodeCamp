@@ -1,1 +1,16 @@
 const sum = 10 + 10;
+
+numberToString(5)
+
+let sum = 0
+  for (i = 0; i < num; i++);
+  return sum + i;
+
+
+  function sumArray(array) {
+ let min = Math.min(array)
+ let max = Math.max(array)
+ let minIndex = array.indexOf(min)
+ let maxIndex = array.indexOf(max)
+ delete array [minIndex, maxIndex]
+}
